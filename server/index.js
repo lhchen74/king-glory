@@ -7,6 +7,7 @@ app.use(express.json())
 
 require('./plugins/db')(app)
 require('./routes/admin')(app)
+app.use('/uploads', express.static(__dirname + '/uploads'))
 
 
 app.listen(3000, () => {
