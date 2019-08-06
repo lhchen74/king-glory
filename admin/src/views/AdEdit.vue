@@ -17,7 +17,8 @@
             <el-form-item label="图片" style="margin-top: 0.5rem">
               <el-upload
                 class="avatar-uploader"
-                :action="$http.defaults.baseURL + '/upload/'"
+                :action="uploadUrl"
+                :headers="getAuthHeaders()"
                 :on-success="res => $set(item, 'image', res.url)"
               >
                 <img v-if="item.image" :src="item.image" class="avatar" />
@@ -50,7 +51,9 @@ export default {
   },
   data() {
     return {
-      model: {}
+      model: {
+        items: []
+      }
     };
   },
   methods: {
@@ -75,8 +78,8 @@ export default {
 
     async fetch() {
       const res = await this.$http.get(`rest/ads/${this.id}`);
-      this.model = res.data;
-      // this.model = Object.assign({}, this.model, res.data);
+      // this.model = res.data;
+      this.model = Object.assign({}, this.model, res.data);
     }
   },
   created() {

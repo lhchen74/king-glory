@@ -1,15 +1,15 @@
 <template>
   <div>
-    <h1>广告位列表</h1>
+    <h1>管理员列表</h1>
     <el-table :data="items">
       <el-table-column prop="_id" label="ID" width="250"></el-table-column>
-      <el-table-column prop="name" label="名称"></el-table-column>
+      <el-table-column prop="username" label="管理员名称"></el-table-column>
       <el-table-column fixed="right" label="操作" width="180">
         <template slot-scope="scope">
           <el-button
             type="primary"
             size="small"
-            @click="$router.push(`/ads/edit/${scope.row._id}`)"
+            @click="$router.push(`/admin_users/edit/${scope.row._id}`)"
           >编辑</el-button>
           <el-button type="primary" size="small" @click="remove(scope.row)">删除</el-button>
         </template>
@@ -28,16 +28,16 @@ export default {
   },
   methods: {
     async fetch() {
-      const res = await this.$http.get("rest/ads");
+      const res = await this.$http.get("rest/admin_users");
       this.items = res.data;
     },
     async remove(row) {
-      this.$confirm(`是否确定删除广告位 "${row.name}" ?`, "提示", {
+      this.$confirm(`是否确定删除管理员 "${row.username}" ?`, "提示", {
         confirmButtonText: "确定",
         cancelButtonText: "取消",
         type: "warning"
       }).then(async () => {
-        await this.$http.delete(`rest/ads/${row._id}`);
+        await this.$http.delete(`rest/admin_users/${row._id}`);
         this.fetch();
         this.$message({
           type: "success",
@@ -51,4 +51,3 @@ export default {
   }
 };
 </script>
-

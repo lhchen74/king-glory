@@ -14,7 +14,8 @@
           <el-form-item label="头像">
             <el-upload
               class="avatar-uploader"
-              :action="$http.defaults.baseURL + '/upload/'"
+              :action="uploadUrl"
+              :headers="getAuthHeaders()"
               :on-success="afterUpload"
             >
               <img v-if="model.avatar" :src="model.avatar" class="avatar" />
@@ -82,7 +83,8 @@
                 另外在这里也不能使用 this.$set()-->
                 <el-upload
                   class="avatar-uploader"
-                  :action="$http.defaults.baseURL + '/upload/'"
+                  :action="uploadUrl"
+                  :headers="getAuthHeaders()"
                   :on-success="res => $set(item, 'icon', res.url)"
                 >
                   <img v-if="item.icon" :src="item.icon" class="avatar" />
