@@ -1,0 +1,168 @@
+// reset
+* {
+    // 默认盒模型是以内容为准，不包含 border, pading, margin
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    font-size: 13px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.2em;
+    background: #f1f1f1;
+}
+
+
+a {
+    color: #999;
+}
+
+// colors 
+
+$colors: ("primary": #db9e3f,
+    "white": #fff,
+    "light": #f9f9f9,
+    "gray": #999,
+    "dark-light": #343440,
+    "dark": #222,
+    "black": #000,
+);
+
+@each $ck,
+$cv in $colors {
+    .text-#{$ck} {
+        color: $cv;
+    }
+
+    .bg-#{$ck} {
+        background-color: $cv;
+    }
+}
+
+// text
+@each $var in (left, right, center) {
+    .text-#{$var} {
+        text-align: $var;
+    }
+}
+
+
+// font size
+$base-font-size: 1rem;
+$font-sizes:(xs: 0.7692, // 10px
+    sm: 0.9231, // 12px
+    md: 1, // 13px
+    lg: 1.0769, // 14px
+    xl: 1.2308 // 16px
+);
+
+@each $fk, $fv in $font-sizes {
+    .fs-#{$fk} {
+        font-size: $fv * $base-font-size
+    }
+}
+
+
+
+// flex
+.d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+$flex-jc:(start: flex-start,
+    end: flex-end,
+    center: center,
+    between: space-between,
+    around: space-around);
+
+@each $fk, $fv in $flex-jc {
+    .jc-#{$fk} {
+        justify-content: $fv
+    }
+}
+
+
+$flex-ai:(start: flex-start,
+    end: flex-end,
+    center: center,
+    stretch: stretch);
+
+@each $fk, $fv in $flex-ai {
+    .ai-#{$fk} {
+        align-items: $fv
+    }
+}
+
+
+.flex-1 {
+    flex: 1 // flex-grow and shrink 都是 1
+}
+
+.flex-grow-1 {
+    flex-grow: 1
+}
+
+
+// spacing
+// .m-0 {margin: 0;}
+// .mt-0 {margin-top: 0;}
+// .mx-0 {margin-left: 0; margin-right: 0;}
+// .my-0 {margin-top: 0; margin-bottom: 0;}
+
+$spacing-base-size: 1rem;
+$spacing-types: (m: margin, p: padding);
+$spacing-direction: (t: top, r: right, b: bottom, l: left);
+$spacing-sizes: (0: 0,
+    1: 0.25,
+    2: 0.5,
+    3: 1,
+    4: 1.5,
+    5: 3);
+
+
+
+
+
+
+@each $typeK, $typeV in $spacing-types {
+
+    // .m-0 {margin: 0;}
+    @each $sizeK, $sizeV in $spacing-sizes {
+        .#{$typeK}-#{$sizeK} {
+            #{$typeV}: $sizeV * $spacing-base-size;
+        }
+    }
+    
+    // .mt-0 {margin-top: 0;}
+    @each $dirK, $dirV in $spacing-direction {
+        @each $sizeK, $sizeV in $spacing-sizes {
+            .#{$typeK}#{$dirK}-#{$sizeK} {
+                #{$typeV}-#{$dirV}: $sizeV * $spacing-base-size;
+            }
+        }
+    }
+
+    // .mx-0 {margin-left: 0; margin-right: 0;}
+    @each $sizeK, $sizeV in $spacing-sizes {
+        .#{$typeK}x-#{$sizeK} {
+            #{$typeV}-left: $sizeV * $spacing-base-size;
+            #{$typeV}-right: $sizeV * $spacing-base-size;
+        }
+    }
+
+    // .my-0 {margin-top: 0; margin-bottom: 0;}
+    @each $sizeK, $sizeV in $spacing-sizes {
+        .#{$typeK}y-#{$sizeK} {
+            #{$typeV}-top: $sizeV * $spacing-base-size;
+            #{$typeV}-bottom: $sizeV * $spacing-base-size;
+        }
+    }
+}
