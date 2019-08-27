@@ -1,0 +1,60 @@
+// colors 
+
+$colors: ("primary": #db9e3f,
+    "blue-light": #4b67af,
+    "white": #fff,
+    "light": #f9f9f9,
+    "light0": #dedede,
+    "light1": #d4d9de,
+    "gray": #999,
+    "dark-light": #343440,
+    "dark": #222,
+    "black": #000,
+);
+
+$border-color: map-get($map: $colors, $key: light1);
+
+// font size
+$base-font-size: 1rem;
+$font-sizes:(xxs: 0.6154,
+    xs: 0.7692, // 10px
+    sm: 0.9231, // 12px
+    md: 1, // 13px
+    lg: 1.0769, // 14px
+    xl: 1.2308 // 16px
+);
+
+
+// flex
+
+$flex-jc:(start: flex-start,
+    end: flex-end,
+    center: center,
+    between: space-between,
+    around: space-around);
+
+
+
+$flex-ai:(start: flex-start,
+    end: flex-end,
+    center: center,
+    stretch: stretch);
+
+
+
+
+// spacing
+// .m-0 {margin: 0;}
+// .mt-0 {margin-top: 0;}
+// .mx-0 {margin-left: 0; margin-right: 0;}
+// .my-0 {margin-top: 0; margin-bottom: 0;}
+
+$spacing-base-size: 1rem;
+$spacing-types: (m: margin, p: padding);
+$spacing-direction: (t: top, r: right, b: bottom, l: left);
+$spacing-sizes: (0: 0,
+    1: 0.25,
+    2: 0.5,
+    3: 1,
+    4: 1.5,
+    5: 3);
