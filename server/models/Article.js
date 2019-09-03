@@ -11,6 +11,8 @@ const schema = new mongoose.Schema({
         type: mongoose.SchemaTypes.ObjectId,
         ref: 'Category'
     }],
+}, {
+    timestamps: true
 })
 
 module.exports = mongoose.model('Article', schema)

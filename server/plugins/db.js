@@ -4,4 +4,7 @@ module.exports = app => {
         useNewUrlParser: true,
         useFindAndModify: false
     })
+
+    // 引用所有 models
+    require('require-all')(__dirname + '/../models')
 }

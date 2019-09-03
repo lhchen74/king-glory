@@ -19,6 +19,14 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+    padding: 0;
+}
+
 
 a {
     color: #999;
@@ -52,6 +60,15 @@ $cv in $colors {
     .text-#{$var} {
         text-align: $var !important;
     }
+}
+
+
+// text overflow
+.text-ellipsis {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 
@@ -203,6 +220,25 @@ $typeV in $spacing-types {
     border-radius: 0.1538rem;
     font-size: map-get($map: $font-sizes, $key: 'sm') * $base-font-size;
     padding: 0.3rem 0.4rem;
+
+    &.btn-lg {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        i {
+            color: map-get($colors, 'primary');
+            font-weight: bold;
+            font-size: 1.5rem;
+            margin-right: 0.5rem;
+        }
+
+        background: map-get($colors, 'white-1');
+        border: 1px solid map-get($colors, 'white-2');
+        padding: 0.8rem;
+        font-size: 1rem;
+    }
 }
 
 
@@ -250,5 +286,13 @@ $typeV in $spacing-types {
         width: 0.7692rem;
         height: 0.7692rem;
         background-position: 38.577% 52.076%;
+    }
+}
+
+
+// borders
+@each $dir in (top, right, bottom, left) {
+    .border-#{$dir} {
+        border-#{$dir}: 1px solid $border-color;
     }
 }

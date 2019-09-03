@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)http://pvp.qq.com/web201605/herodetail/137.shtml -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
+
+<meta name="author" content="Tencent-TGideas">
+<meta name="Copyright" content="Copyright (c) 2006-2015 TENCENT">
+<meta name="keywords" content="王者荣耀司马懿,司马懿王者荣耀,王者荣耀司马懿出装,王者荣耀司马懿铭文">
+<meta name="description" content="《王者荣耀》官方英雄资料、司马懿技能介绍、司马懿技能加点建议、司马懿铭文搭配建议、司马懿出装建议、司马懿英雄关系、司马懿攻略">
+<title>王者荣耀司马懿-王者荣耀官网网站-腾讯游戏</title>
+<link rel="stylesheet" type="text/css" href="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/comm-v1.css">
+<link rel="stylesheet" type="text/css" href="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/hero.css">
+
+<link href="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/ost.min.css" rel="stylesheet" type="text/css"></head>
+<body style="padding-top: 42px;"><div id="header" class="header tganime-header-fix"><div class="header-nav">    <div class="header-inner">      <h1><a href="http://pvp.qq.com/" class="logo pa" title="王者荣耀" onclick="PTTSendClick(&#39;link&#39;,&#39;logo&#39;,&#39;logo&#39;);">王者荣耀</a></h1>      <!--=========主导航==========-->      <ul class="main-nav clearfix">        <li class="first-nav">          <a href="http://pvp.qq.com/" target="_blank" title="官网首页" onclick="PTTSendClick(&#39;link&#39;,&#39;home&#39;,&#39;官网首页&#39;);">官网首页<em>HOME</em></a>        </li>        <li>          <a href="http://pvp.qq.com/web201605/herolist.shtml" target="_blank" title="游戏资料" onclick="PTTSendClick(&#39;link&#39;,&#39;data&#39;,&#39;游戏资料&#39;);">游戏资料<em>DATA</em></a>        </li>        <li>          <a href="http://pvp.qq.com/raiders/" target="_blank" title="内容中心" onclick="PTTSendClick(&#39;link&#39;,&#39;strategy&#39;,&#39;内容中心&#39;);">内容中心<em>CONTENTS</em></a>        </li>        <li>          <a href="http://pvp.qq.com/match/center.shtml?ADTAG=pvp.index.nav.matchcenter" target="_blank" title="赛事中心" onclick="PTTSendClick(&#39;link&#39;,&#39;match&#39;,&#39;赛事中心&#39;);">赛事中心<em>MATCH</em></a>        </li>        <li>          <a href="http://pvp.qq.com/cp/a20171023pvppc/" target="_blank" title="商城/合作" onclick="PTTSendClick(&#39;link&#39;,&#39;CULTURE&#39;,&#39;百态王者&#39;);">百态王者<em>CULTURE</em></a>        </li>        <li>          <a href="javascript:void(0)" title="社区互动" onclick="PTTSendClick(&#39;link&#39;,&#39;Community&#39;,&#39;社区互动&#39;);">社区互动<em>COMMUNITY</em></a>        </li>        <li>          <a href="javascript:void(0)" target="_blank" title="玩家支持" onclick="PTTSendClick(&#39;link&#39;,&#39;player&#39;,&#39;玩家支持&#39;);">玩家支持<em>PLAYER</em></a>        </li>      </ul>      <!--=====登录模块=====-->      <div class="login_pannel clearfix pa">        <a class="avatar user_pic " href="http://pvp.qq.com/web201605/personal.shtml">          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAABGdBTUEAALGPC/xhBQAAARpQTFRF88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JY88JYAAAA88JYAMCn0QAAAF10Uk5TZBSP1dYNDujnLPuA3/zQAos0UjmnB8KcgZrNkfGwCdhthtnjysFgCFAZSuQWKYNXh9IbREw+9iRhdyPlZRNdvRwnMRrvNf3F3isBtz+eRfPha+v3O+718Gm0eB4AqcfmkwAAAUBJREFUOMvt1FWTg0AMAOCeu7u71t3dFS+FJv//b9wCnbu5YwI83VPzsBvYb2aRbHzgOXxzartTLbGhVPVAN9Z0NurrXVdaE9GkKNZcaFPBVBJ6kEyh0nSksoqYAVgEyCCqsgMdcIjIpxOYSPMs4wYkHY3RiPwSLufNbDyiqIp/Q6Iob6MqRZ9t9ImiNzZ6R9ELG72k6Dl22q1v1mp38JSiE9SgLpR3mNssC3XQ2DVBD62lBR2zRSPR8JiiR9jIrgDEwhiOAazqDTyjaI7trMQhwqYIxBU2XVH01nibCYTYGGIPzuKBLJdrkwb86A9YVCfpI1uNBkHmZAhGDSqQ9MUspwLkwGcV2StJh9bHn8J09hs+Sfo2/EXFd6ezVZB+aP/D+cQebM+odN9z6wPFvkl3ux66y95WBSr7J/NW/F/0C0EhZNPgBN3FAAAAAElFTkSuQmCC" width="42" height="42">        </a>        <!--=====登录后已选择大区=====-->        <div id="logined_selected" class="per-infor" style="display:none;">          <p class="user-name f12">            <i id="nickname">--</i>            <a class="logout_btn" href="javascript:void(0)">注销</a>            <!--<a class="select_role" style="color:#2d84d3" href="javascript:void(0)">切换大区&gt;</a>-->          </p>          <p class="personal_link"><a href="http://pvp.qq.com/web201605/personal.shtml">点击查看游戏战绩</a></p>          <ul class="userinfo-list tc">            <li><em class="grade_level">倔强青铜III</em><i>段位</i></li>            <li><em class="win_count">-</em><i>胜场</i></li>            <li><em class="hero_count">-</em><i>英雄数</i></li>            <li><em class="skin_count">-</em><i>皮肤数</i></li>          </ul>        </div>        <div id="unlogin" class="per-infor unlogin_pannel" style="display: block;">          <span class="unlogin_user_pic"></span>          <div class="unlogin_info">            <a href="javascript:TGDialogS(&#39;login_select&#39;);" onclick="PTTSendClick(&#39;head&#39;,&#39;loginBtnSup&#39;,&#39;欢迎登录&#39;);">欢迎登录</a>            <p>登录后查看游戏战绩</p>          </div>        </div>        <!--=====登录后未选择大区=====-->        <div id="logined_not_selected" class="per-infor" style="display:none;">          <div class="user-name">            您已登录            <p>请<a class="select_role" href="javascript:void(0)">选择大区</a>，或者<a class="logout_btn" href="javascript:void(0)">注销</a></p>            <!--您已登录，个人中心暂未开放<a class="logout_btn" href="javascript:void(0)">注销</a>-->          </div>        </div>      </div><!--=====登录模块=====-->    </div>    <!--=====二级导航=====-->      <div id="J_subNav" class="sub-nav">        <ul class="sub-nav-inner">          <li class="down-nav">             &nbsp;          </li>          <li class="down-nav">             <a href="http://pvp.qq.com/cp/a20170829bbgxsm/index.html" target="_blank" title="版本介绍" onclick="PTTSendClick(&#39;link&#39;,&#39;version&#39;,&#39;版本介绍&#39;);">版本介绍</a>             <a href="http://pvp.qq.com/web201605/introduce.shtml" target="_blank" title="游戏介绍" onclick="PTTSendClick(&#39;link&#39;,&#39;gameinfomation&#39;,&#39;游戏介绍&#39;);">游戏介绍</a>             <a href="http://pvp.qq.com/web201605/herolist.shtml" target="_blank" title="英雄资料" onclick="PTTSendClick(&#39;link&#39;,&#39;hero&#39;,&#39;英雄资料&#39;);">英雄资料</a>             <a href="http://pvp.qq.com/coming/v2/" target="_blank" title="爆料站" onclick="PTTSendClick(&#39;link&#39;,&#39;data_coming&#39;,&#39;爆料站&#39;);"><i class="icon-fans"></i>爆料站</a>             <a href="javascript:void(0)" title="故事站" onclick="TGDialogS(&#39;story&#39;);PTTSendClick(&#39;link&#39;,&#39;data_story&#39;,&#39;故事站&#39;);"><i class="icon-fans"></i>故事站</a>             <a href="http://pvp.qq.com/web201605/wallpaper.shtml" target="_blank" title="游戏壁纸" onclick="PTTSendClick(&#39;link&#39;,&#39;wallpaper&#39;,&#39;游戏壁纸&#39;);">游戏壁纸</a>          </li>          <li class="down-nav">             <a href="http://pvp.qq.com/raiders/" target="_blank" title="攻略中心" onclick="PTTSendClick(&#39;link&#39;,&#39;strategy_center&#39;,&#39;攻略中心&#39;);">攻略中心</a>             <a href="http://pvp.qq.com/strategy/" target="_blank" title="英雄攻略" onclick="PTTSendClick(&#39;link&#39;,&#39;strategy_hero&#39;,&#39;英雄攻略&#39;);">英雄攻略</a>             <a href="http://pvp.qq.com/v/" target="_blank" title="视频中心" onclick="PTTSendClick(&#39;link&#39;,&#39;strategy_video&#39;,&#39;视频中心&#39;);">视频中心</a>             <a href="http://pvp.qq.com/cp/a20180808wzsj/index.htm" target="_blank" title="王者视角" onclick="PTTSendClick(&#39;link&#39;,&#39;a20180808wzsj&#39;,&#39;王者视角&#39;);">王者视角</a>             <a href="http://pvp.qq.com/author/" target="_blank" title="作者入驻" onclick="PTTSendClick(&#39;link&#39;,&#39;author&#39;,&#39;作者入驻&#39;);">作者入驻</a>             <a href="http://pvp.qq.com/mcn/" target="_blank" title="媒体入驻" onclick="PTTSendClick(&#39;link&#39;,&#39;mcn&#39;,&#39;媒体入驻&#39;);">媒体入驻</a>          </li>          <li class="down-nav">             <a href="http://pvp.qq.com/match/kcc.shtml" target="_blank" title="冠军杯" onclick="PTTSendClick(&#39;link&#39;,&#39;match_kcc&#39;,&#39;kcc&#39;);">冠军杯</a>            <a href="http://pvp.qq.com/match/kpl/index.shtml" target="_blank" title="KPL职业联赛" onclick="PTTSendClick(&#39;link&#39;,&#39;match_KPL&#39;,&#39;KPL&#39;);"><i class="icon-fans"></i>KPL</a>            <a href="http://pvp.qq.com/cp/a20181017krkpl/index.html" target="_blank" title="KRKPL联赛" onclick="PTTSendClick(&#39;link&#39;,&#39;match_KRKPL&#39;,&#39;KRKPL&#39;);"><i class="icon-hot"></i>KRKPL</a>             <a href="http://pvp.qq.com/cp/a20180906gxls/index.shtml" target="_blank" title="王者高校联赛" onclick="PTTSendClick(&#39;link&#39;,&#39;match_gaoxiao&#39;,&#39;王者高校联赛&#39;);">高校赛</a>             <a href="http://pvp.qq.com/cp/a20180822citylg/index.shtml" target="_blank" title="王者荣耀城市赛" onclick="PTTSendClick(&#39;link&#39;,&#39;match_city&#39;,&#39;王者荣耀城市赛&#39;);">城市赛</a>             <a href="http://pvp.qq.com/match/quanmin/index.html#/" target="_blank" title="全民赛" onclick="PTTSendClick(&#39;link&#39;,&#39;match_KCC&#39;,&#39;quanmin&#39;);">全民赛</a>             <a href="http://datamore.qq.com/project/wzmatch/dist/index.html" target="_blank" title="赛事数据" onclick="PTTSendClick(&#39;link&#39;,&#39;match_datamore&#39;,&#39;赛事数据&#39;);"><i class="icon-fans"></i>赛事数据</a>          </li>          <li class="down-nav">             <a href="http://pvp.qq.com/culture/inherit.html" target="_blank" title="荣耀·传承" onclick="PTTSendClick(&#39;link&#39;,&#39;culture&#39;,&#39;荣耀·传承&#39;);">荣耀·传承</a>             <a href="http://pvp.qq.com/history/" target="_blank" title="王者文化站" onclick="PTTSendClick(&#39;link&#39;,&#39;history&#39;,&#39;王者文化站&#39;);">王者文化站</a>             <a href="http://pvp.qq.com/cp/a20180327music/index.html" target="_blank" title="王者音乐听" onclick="PTTSendClick(&#39;link&#39;,&#39;a20180327music&#39;,&#39;王者音乐听&#39;);">王者音乐听</a>             <a href="http://pvp.qq.com/wonder/" target="_blank" title="万千世界" onclick="PTTSendClick(&#39;link&#39;,&#39;wonder&#39;,&#39;万千世界&#39;);">万千世界</a>             <a href="http://pvp.qq.com/cp/a20190102starlight/index.html" target="_blank" title="星光殿堂" onclick="PTTSendClick(&#39;link&#39;,&#39;star&#39;,&#39;星光殿堂&#39;);">星光殿堂</a>             <a href="http://igame.qq.com/newcss/pvp/privilegePC/index.html" target="_blank" title="商户特权" onclick="PTTSendClick(&#39;link&#39;,&#39;wifi&#39;,&#39;商户特权&#39;);">商户特权</a>          </li>          <li class="down-nav">            <a href="javascript:void(0)" title="王者营地" onclick="TGDialogS(&#39;zhushou&#39;);PTTSendClick(&#39;link&#39;,&#39;Community_tools&#39;,&#39;王者营地&#39;);"><i class="icon-hot"></i>王者营地</a>            <a href="https://buluo.qq.com/p/barindex.html?bid=227061" target="_blank" title="手Q部落" onclick="PTTSendClick(&#39;link&#39;,&#39;Community_qq&#39;,&#39;手Q部落&#39;);">手Q部落</a>            <a href="javascript:void(0)" target="_blank" title="微信圈子" onclick="TGDialogS(&#39;weiquan&#39;);PTTSendClick(&#39;link&#39;,&#39;Community_wx&#39;,&#39;微信圈子&#39;);">微信圈子</a>            <a href="http://weibo.com/heromoba" target="_blank" title="官方微博" onclick="PTTSendClick(&#39;link&#39;,&#39;Community_wb&#39;,&#39;官方微博&#39;);">官方微博</a>            <a href="javascript:void(0)" title="微信公众号" onclick="TGDialogS(&#39;weixin&#39;);PTTSendClick(&#39;link&#39;,&#39;Community_wxgzh&#39;,&#39;微信公众号&#39;);">微信公众号</a>            <a href="javascript:void(0)" title="手Q订阅号" onclick="TGDialogS(&#39;qq&#39;);PTTSendClick(&#39;link&#39;,&#39;Community_qqdyh&#39;,&#39;手Q订阅号&#39;);">手Q订阅号</a>            <a href="http://pvp.qq.com/fans/index.shtml" target="_blank" title="同人社区" onclick="PTTSendClick(&#39;link&#39;,&#39;Community_fans&#39;,&#39;同人社区&#39;);">同人社区</a>          </li>          <li class="down-nav">             <a href="https://jiazhang.qq.com/jz/home.html" target="_blank" title="成长守护平台" onclick="PTTSendClick(&#39;link&#39;,&#39;player_watch&#39;,&#39;成长守护平台&#39;);"><i class="icon-guard"></i>成长守护平台</a>             <a href="http://pvp.qq.com/cp/a20170726hsbbspc/index.html" target="_blank" title="健康系统" onclick="PTTSendClick(&#39;link&#39;,&#39;player_healthy&#39;,&#39;健康系统&#39;);"><i class="icon-health"></i>健康系统</a>             <a href="http://pvp.qq.com/cp/a20181105talk/" target="_blank" title="狄仁杰护卫站" onclick="PTTSendClick(&#39;link&#39;,&#39;player_drj&#39;,&#39;狄仁杰护卫站&#39;);"><i class="icon-fans"></i>狄仁杰护卫站</a>             <a href="javascript:void(0)" target="_blank" title="客服专区" onclick="TGDialogS(&#39;kefu&#39;);PTTSendClick(&#39;link&#39;,&#39;player_kf&#39;,&#39;客服专区&#39;);">客服专区</a>             <a href="http://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24095/m15241/201508/370256.shtml" title="礼包兑换" onclick="PTTSendClick(&#39;link&#39;,&#39;player_feedback&#39;,&#39;礼包兑换&#39;);" target="_blank">礼包兑换</a>             <a href="https://tool.helper.qq.com/v3/wzry/official_website/index.html" title="自助服务" onclick="PTTSendClick(&#39;link&#39;,&#39;player_service&#39;,&#39;自助服务&#39;);" target="_blank">自助服务</a>          </li>        </ul>      </div>      </div></div><div class="header-dialog">  <div class="pop pr tganime-fadein on" style="display:none;" id="login_select">    <a href="javascript:showDialog.hide()" class="close pa db ht">关闭</a>    <a href="javascript:void(0)" id="wxlogin" class="wx-login pa db ht">微信用户登录</a>    <a href="javascript:void(0)" id="qqlogin" class="qq-login pa db ht">QQ用户登录</a>  </div>  <div class="pop2 pr" style="display:none;" id="area_select">    <a href="javascript:showDialog.hide()" class="close pa db ht">关闭</a>    <div class="se-input">      <select name="channelContentId" id="channelContentId"><option selected="">选择渠道</option></select>      <select name="areaContentId" id="areaContentId"><option selected="">选择大区</option></select>      <select name="roleContentId" id="roleContentId"><option selected="">选择角色</option></select>    </div>    <div class="se-btn clearfix">      <a id="RoleSelectBtn" href="javascript:showDialog.hide()" class="fl ht">确定</a>      <a href="javascript:showDialog.hide()" class="fl ht">取消</a>    </div>  </div>  <div class="zhushou pr" id="zhushou" style="display:none">    <div class="dia-zhushou pr">       <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="weixin pr" id="weixin" style="display:none">    <div class="dia-weixin pr">       <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="story pr" id="story" style="display:none">    <div class="dia-story">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="skin pr" id="skin" style="display:none">    <div class="dia-skin">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="version pr" id="version" style="display:none">    <div class="dia-version">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>   <div class="weiquan pr" id="weiquan" style="display:none">    <div class="dia-weiquan">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="hero_pop pr" id="hero_pop" style="display:none">    <div class="dia-hero-pop">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="kefu pr" id="kefu" style="display:none">    <div class="dia-kefu">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>      <p>微信扫一扫，联系客服</p>    </div>   </div>  <div class="qq pr" id="qq" style="display:none">    <div class="dia-qq">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="wgc pr" id="wgc" style="display:none">    <div class="dia-wgc">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="qgc pr" id="qgc" style="display:none">    <div class="dia-qgc">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="applets pr" id="applets" style="display:none">    <div class="dia-applets">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div>  <div class="applets2 pr" id="applets2" style="display:none">    <div class="dia-applets2">      <a class="dia-close" href="javascript:showDialog.hide()" title="关闭"></a>    </div>  </div></div>
+<div class="wrapper">
+
+    <!-- 位置信息 S -->
+    <div class="zk-con1 zk-con" style="background:url(&#39;//game.gtimg.cn/images/yxzj/img201606/skin/hero-info/137/137-bigskin-1.jpg&#39;) center 0">
+        <div class="con1-pic">
+            <div class="pic-show-box">
+                <!--<div class="pic-show">
+                    <div class="pic-show1 pic-show3">
+                        <img src="//game.gtimg.cn/images/yxzj/web201605/page/pf_img1.png" style="display:block" width="1200" height="530" alt="" />
+                        <img src="//game.gtimg.cn/images/yxzj/web201605/page/pf_img2.png" width="1200" height="530" alt="" />
+                        <img src="//game.gtimg.cn/images/yxzj/web201605/page/pf_img3.png" width="1200" height="530" alt="" />
+                        <img src="//game.gtimg.cn/images/yxzj/web201605/page/pf_img4.png" width="1200" height="530" alt="" />
+                    </div>
+                </div>-->
+                <div class="cover">
+                    <div class="cover-bg"></div>
+                    <h3 class="cover-title">寂灭之心</h3>
+                    <h2 class="cover-name">司马懿</h2>
+                    <span class="herodetail-sort"><i class="herodetail-sort-4"></i></span>                           
+                    <a href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=406297" target="_blank" class="hero-video" onclick="PTTSendClick(&#39;btn&#39;,&#39;video&#39;,&#39;英雄视频&#39;);">
+                        <span></span>
+                        <img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/137-mobileskin-1.jpg" alt="">
+                        <i class="icon ico-play"></i>
+                    </a>
+                    <ul class="cover-list">
+                        <li>
+                            <em class="cover-list-text fl">生存能力</em>
+                            <span class="cover-list-bar data-bar1 fl"><b class="icon"></b><i class="ibar" style="width:50%"></i></span>
+                        </li>
+                        <li>
+                            <em class="cover-list-text fl">攻击伤害</em>
+                            <span class="cover-list-bar data-bar2 fl"><b class="icon"></b><i class="ibar" style="width:50%"></i></span>
+                        </li>
+                        <li>
+                            <em class="cover-list-text fl">技能效果</em>
+                            <span class="cover-list-bar data-bar3 fl"><b class="icon"></b><i class="ibar" style="width:90%"></i></span>
+                        </li>
+                        <li>
+                            <em class="cover-list-text fl">上手难度</em>
+                            <span class="cover-list-bar data-bar4 fl"><b class="icon"></b><i class="ibar" style="width:50%"></i></span>
+                        </li>
+                    </ul>
+                    <div class="cover-btn">
+                        <a href="javascript:;" class="story">英雄故事</a>
+                        <a href="javascript:;" class="history">历史上的ta</a>
+                    </div>
+                </div>
+                <div class="pic-pf">
+                    <a href="javascript:;" class="pf" title="更多">皮<br>肤</a>
+                    <ul class="pic-pf-list pic-pf-list3" data-imgname="寂灭之心|魇语军师"><li><i class="curr"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/137-smallskin-1.jpg" alt="" data-imgname="//game.gtimg.cn/images/yxzj/img201606/skin/hero-info/137/137-bigskin-1.jpg" data-title="寂灭之心"></i><p>寂灭之心</p></li><li><i><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/137-smallskin-2.jpg" alt="" data-imgname="//game.gtimg.cn/images/yxzj/img201606/skin/hero-info/137/137-bigskin-2.jpg" data-title="魇语军师"></i><p>魇语军师</p></li></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 位置信息 E -->
+    <!-- 内容区域1 S -->
+    <div class="zkcontent">
+        <div class="zk-con-box">
+            <!-- 技能说明 S -->
+            <div class="zk-con3 zk-con">
+                <div class="crumb">
+                    <i class="tb1 icon fl"></i>
+                    <a href="http://pvp.qq.com/" target="_blank" title="王者荣耀首页">王者荣耀首页</a>
+                    <span>&gt;</span>
+                    <a href="http://pvp.qq.com/web201605/herolist.shtml" target="_blank" title="英雄介绍">英雄介绍</a>
+                    <span>&gt;</span>
+                    <label>司马懿</label>
+                    <span class="hidden">137</span>
+                </div>
+                <div class="skill ls fl">
+                    <h3 class="tlt fn"><i class="tb2 icon fl"></i>技能介绍</h3>
+                    <div class="skill-info l info">
+                        <ul class="skill-u1">
+                            <li class="curr"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/13700.png" alt=""></li>
+                            <li><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/13710.png" alt=""></li>
+                            <li><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/13720.png" alt=""></li>
+                            <li><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/13730.png" alt=""></li>
+                            <li class="no5" data-img="//game.gtimg.cn/images/yxzj/img201606/heroimg/137/13740.png"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/137.shtml" alt=""></li>
+                        </ul>
+                        <div class="skill-show">
+                            <div class="show-list" style="display:block;">
+                                <p class="skill-name"><b>静默之语</b><span>冷却值：0</span><span>消耗：0</span></p>
+                                <p class="skill-desc">被动：司马懿能够获得2000范围内施法者的视野且在该范围内释放技能会为司马懿回复5点能量；司马懿基础拥有80点能量（每级提升3点能量上限），同时每次击杀或者助攻能够提升10点能量上限，最高可以提升到200点能量上限；释放技能会激活幽影之牙；幽影之牙：司马懿增加30点移动速度并将手持巨大的镰刀进行普通攻击，持续4秒，镰刀每击造成250（+40%法术加成）点法术伤害，召唤镰刀后的首次攻击可位移到目标身后造成500（+80%法术加成）点法术伤害</p>
+                                <div class="skill-tips">司马懿在前中期需要计算好能量分配情况，并且尽量的参与战斗叠加自身的能量上限</div>
+                            </div>
+                            <div class="show-list">
+                                <p class="skill-name"><b>幽影之咬</b><span>冷却值：9</span><span>消耗：40</span></p>
+                                <p class="skill-desc">司马懿释放无法被选中的灵体，持续两面，控制灵体时本体免疫控制；灵体穿过的敌人时造成100/120/140/160/180/200（+20%法术加成）点法术伤害，释放普通攻击或效果结束后本体将会移动至灵体的位置，并对路径上的敌人造成100/120/140/160/180/200（+20%法术加成）点法术伤害和50%减速，持续1秒</p>
+                                <div class="skill-tips">灵体的移动速度极快，并且使用普通会立即结束灵体状态</div>
+                            </div>
+                            <div class="show-list">
+                                <p class="skill-name"><b>荒芜之域</b><span>冷却值：6</span><span>消耗：40</span></p>
+                                <p class="skill-desc">司马懿释放灵力，压制周围的区域造成300/340/380/420/460/500（+30%法术加成）点法术伤害与1秒沉默，如果司马懿2秒后还在被压制的区域中则会获得25/30/35/40/45/50点的能量；被动：司马懿吸收部分的法术伤害时，将其中30%在5秒内转化为生命值</p>
+                                <div class="skill-tips">被动并不能直接减免伤害，需要主要不要高估自身硬度</div>
+                            </div>
+                            <div class="show-list">
+                                <p class="skill-name"><b>死神降临</b><span>冷却值：35/30/25</span><span>消耗：40</span></p>
+                                <p class="skill-desc">司马懿化身死神，在短暂的蓄力后向指定地点冲击，造成700/875/1050（100%法术加成）点法术伤害，并且会对冲击路径触碰的敌人造成50%伤害</p>
+                                <div class="skill-tips">大招有一定的延迟，需要一定的预判</div>
+                            </div>
+                            <div class="show-list">
+                                <p class="skill-name"><b></b><span>冷却值：</span><span>消耗：</span></p>
+                                <p class="skill-desc"></p>
+                                <div class="skill-tips"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="sugg rs fl">
+                    <div class="story-tlt">
+                        <h3 class="tlt fn"><i class="tb3 icon fl"></i>铭文搭配建议</h3>
+                    </div>
+                    <div class="sugg-info info">
+                        <ul class="sugg-u1" data-ming="1517|3515|2503"><li><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1517.png" class="sugg-pic1" width="45" height="53" alt=""><p><em>凶兆</em></p><p>法术攻击力+4.2</p><p>攻速加成+0.6%</p></li><li><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/3515.png" class="sugg-pic1" width="45" height="53" alt=""><p><em>心眼</em></p><p>攻速加成+0.6%</p><p>法术穿透+6.4</p></li><li><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/2503.png" class="sugg-pic1" width="45" height="53" alt=""><p><em>贪婪</em></p><p>法术吸血+1.6%</p></li></ul>
+                        <p class="sugg-tips">Tips：攻速在前中期十分重要，在能量不多的情况下，每次被动触发可以挥舞多少次镰刀直接关系到了能制造多少伤害。</p>
+                    </div>
+                </div>
+            </div>
+            <!-- 技能说明 E -->
+            <!-- 英雄关系 S -->
+            <div class="zk-con4 zk-con">
+                <div class="hero ls fl">
+                    <div class="sugg-tlt">
+                        <h3 class="tlt fn"><i class="tb4 icon fl"></i>技能加点建议</h3>
+                    </div>
+                    <div class="sugg-info2 info">
+                        <p class="sugg-name"><b>主升</b><span>荒芜之域</span></p>
+                        <p class="icon sugg-skill"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/13720.png" class="jn-pic1" width="47" height="47" alt="技能1"></p>
+                        <p class="sugg-name"><b>副升</b><span>幽影之咬</span></p>
+                        <p class="icon sugg-skill"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/13710.png" class="jn-pic1" width="47" height="47" alt="技能2"></p>
+                        <p class="sugg-name sugg-name3"><b>召唤师技能</b><span>闪现/狂暴</span></p>
+                        <p id="skill3" data-skill="80115|80110"><p class="icon sugg-skill"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/80115.jpg" alt="" class="jn-pic1" width="47" height="47"></p><p class="icon sugg-skill"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/80110.jpg" alt="" class="jn-pic1" width="47" height="47"></p></p>
+                    </div>
+                    <h3 class="tlt fn"><i class="tb5 icon fl"></i>英雄关系</h3>
+                    <div class="hero-info-box">
+                        <ul class="hero-hd">
+                            <li class="">最佳搭档<span></span></li>
+                            <li>压制英雄<span></span></li>
+                            <li class="curr cur">被压制英雄</li>
+                        </ul>
+                        <div>
+                            <div class="hero-info l info" style="display: none;">
+                                <div class="hero-f1 fl"><i class="hr1 icon fl"></i>最佳搭档</div>
+                                <div class="hero-list hero-relate-list fl" data-relatename="">
+                                    <ul>
+                                        <li class="cur"><a href="http://pvp.qq.com/web201605/herodetail/135.shtml"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/135.jpg" alt=""></a></li>
+                                        <li><a href="http://pvp.qq.com/web201605/herodetail/182.shtml"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/182.jpg" alt=""></a></li>
+                                    </ul>
+                                </div>
+                                <div class="hero-list-desc" style="margin-top: -20px;">
+                                    <p>项羽有优秀的开团能力，并且随后可以通过技能降低敌方输出，为司马懿进场输出创造条件</p>
+                                    <p style="display:none;">干将的超远消耗能力，能让司马懿能在一次命中大量飞剑后，选择直接突进开启团战</p>
+                                </div>
+                            </div>
+                            <div class="hero-info l info" style="display: none;">
+                                <div class="hero-f1 fl"><i class="hr2 icon fl"></i>压制英雄</div>
+                                <div class="hero-list hero-relate-list fl" data-relatename="">
+                                    <ul>
+                                        <li class="cur"><a href="http://pvp.qq.com/web201605/herodetail/130.shtml"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/130.jpg" alt=""></a></li>
+                                        <li><a href="http://pvp.qq.com/web201605/herodetail/190.shtml"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/190.jpg" alt=""></a></li>
+                                    </ul>                    
+                                </div>
+                                <div class="hero-list-desc">
+                                    <p>宫本的大招命中后，司马懿只需使用1技能即可轻松摆脱其锁定</p>
+                                    <p style="display:none;">司马懿本身的法术伤害吸收能力就比较克制法系英雄，再加上其追击能力，可使得诸葛亮基本上无法发挥</p>
+                                </div>
+                            </div>
+                            <div class="hero-info l info" style="display: block;">
+                                <div class="hero-f1 fl"><i class="hr3 icon fl"></i>被压制英雄</div>
+                                <div class="hero-list hero-relate-list fl" data-relatename="">
+                                    <ul>
+                                        <li class="cur"><a href="http://pvp.qq.com/web201605/herodetail/193.shtml"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/193.jpg" alt=""></a></li>
+                                        <li><a href="http://pvp.qq.com/web201605/herodetail/187.shtml"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/187.jpg" alt=""></a></li>
+                                    </ul>
+                                </div>
+                                <div class="hero-list-desc" style="margin-top: -30px;">
+                                    <p>司马懿在突袭方面具有很大的优势，但是，如果敌方正在发愁如何开战的话，就是另外一种情况了，正如铠这样的近战具有统治力英雄就非常克制司懿</p>
+                                    <p style="display:none;">硬控十分克制刺客的突袭，会让司马懿无法进场输出</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="equip rs fl">
+                    <h3 class="tlt fn"><i class="tb6 icon fl"></i>出装建议</h3>
+                    <div class="equip-box">
+                        <ul class="equip-hd">
+                            <li class="curr">推荐出装一<span></span></li>
+                            <li>推荐出装二</li>                            
+                        </ul>
+                    </div>
+                    <div class="equip-bd">
+                        <div class="equip-info l" style="display:block;">
+                            <ul class="equip-list fl" data-item="1425|1240|1236|1232|1235|1239"><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1425.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1425.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">急速战靴</h4><p id="Jprice">售价：426</p><p id="Jtprice">总价：710</p></div></div><div class="item-desc"><p>+30%攻速</p><p>唯一被动：+60移动速度（所有鞋类装备的移速加成效果不叠加）</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1240.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1240.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">噬神之书</h4><p id="Jprice">售价：1254</p><p id="Jtprice">总价：2090</p></div></div><div class="item-desc"><p>+180法术攻击<br>+10%冷却缩减<br>+800最大生命</p><p>唯一被动-嗜血：增加25%法术吸血</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1236.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1236.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">巫术法杖</h4><p id="Jprice">售价：1272</p><p id="Jtprice">总价：2120</p></div></div><div class="item-desc"><p>+140法术攻击<br>+400最大生命<br>+400最大法力<br>+8%移速</p><p>唯一被动-强击：使用技能后，5秒内下一次普通攻击附加30%物理攻击（+80%法术加成）的法术伤害，这个效果有2秒冷却时间</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1232.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1232.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">博学者之怒</h4><p id="Jprice">售价：1380</p><p id="Jtprice">总价：2300</p></div></div><div class="item-desc"><p>+240法术攻击</p><p>唯一主动-毁灭：法术攻击提升35%</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1235.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1235.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">痛苦面具</h4><p id="Jprice">售价：1224</p><p id="Jtprice">总价：2040</p></div></div><div class="item-desc"><p>+100法术攻击<br>+5%冷却缩减<br>+500最大生命</p><p>唯一被动-折磨：技能伤害会造成相当于目标当前生命值8%的法术伤害，这个效果有2秒CD（对野怪伤害上限：200）<br>唯一被动-窒息：+75法术穿透</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1239.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1239.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">辉月</h4><p id="Jprice">售价：1194</p><p id="Jtprice">总价：1990</p></div></div><div class="item-desc"><p>+160法术攻击<br>+10%冷却缩减</p><p>唯一主动-月之守护：90秒CD，免疫所有效果，不能移动、攻击和使用技能，持续1.5秒</p></div></div></a></li></ul>
+                            <p class="equip-tips">Tips：司马懿缺乏回复手段，需要用噬神之书来补充其持续作战的能力，巫术法杖则会让司马懿的刺杀更具爆发力</p>
+                        </div>
+                        <div class="equip-info l">
+                            <ul class="equip-list fl" data-item="1521|1425|1240|1236|1232|1231"><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1521.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1521.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">游击弯刀</h4><p id="Jprice">售价：450</p><p id="Jtprice">总价：750</p></div></div><div class="item-desc"><p>必须携带惩击才可够买，获得寒冰惩击效果</p><p>唯一被动-打野：增加60%对野怪的伤害（仅近战英雄生效），击杀野怪获得经验提升30%，击杀野怪获得的金币提升20%<br>唯一被动-磨砺：击杀野怪增加自身6点法术攻击，最多叠加20层</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1425.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1425.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">急速战靴</h4><p id="Jprice">售价：426</p><p id="Jtprice">总价：710</p></div></div><div class="item-desc"><p>+30%攻速</p><p>唯一被动：+60移动速度（所有鞋类装备的移速加成效果不叠加）</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1240.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1240.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">噬神之书</h4><p id="Jprice">售价：1254</p><p id="Jtprice">总价：2090</p></div></div><div class="item-desc"><p>+180法术攻击<br>+10%冷却缩减<br>+800最大生命</p><p>唯一被动-嗜血：增加25%法术吸血</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1236.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1236.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">巫术法杖</h4><p id="Jprice">售价：1272</p><p id="Jtprice">总价：2120</p></div></div><div class="item-desc"><p>+140法术攻击<br>+400最大生命<br>+400最大法力<br>+8%移速</p><p>唯一被动-强击：使用技能后，5秒内下一次普通攻击附加30%物理攻击（+80%法术加成）的法术伤害，这个效果有2秒冷却时间</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1232.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1232.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">博学者之怒</h4><p id="Jprice">售价：1380</p><p id="Jtprice">总价：2300</p></div></div><div class="item-desc"><p>+240法术攻击</p><p>唯一主动-毁灭：法术攻击提升35%</p></div></div></a></li><li><a href="javascript:;"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1231.jpg" alt=""><div class="itemFromTop"><div class="item-title clearfix"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/1231.jpg" alt="" id="Jpic"><div class="cons"><h4 id="Jname">虚无法杖</h4><p id="Jprice">售价：1266</p><p id="Jtprice">总价：2110</p></div></div><div class="item-desc"><p>+240法术攻击<br>+300最大生命值</p><p>唯一被动：+45%法术穿透</p></div></div></a></li></ul>
+                            <p class="equip-tips">Tips：司马懿利用被动可以洞悉对手位置并且大招也能超越距离发起突袭，综合下来说司马懿非常适合打野位置</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 英雄关系 E -->
+            <!-- 英雄视频 S -->
+            <div class="zk-con5 zk-con">
+                <div class="strategy-tlt">
+                    <h3 class="tlt fn"><i class="tb7 icon fl"></i>英雄攻略</h3>
+                    <a href="http://pvp.qq.com/raiders/" target="_blank" class="more" title="进入王者学院"><i class="tb8 icon fl"></i>更多</a>
+                </div>
+                <div class="strategy-box">
+                    
+                    <div class="video fl">
+                        <div class="video-info">
+                            <ul class="video-u1"><li class="li1"><a href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=406250" title="【快速上手英雄技能】司马懿" onclick="PTTSendClick(&#39;link&#39;,&#39;videoraider&#39;,&#39;视频攻略&#39;);" target="_blank"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/S.1534909967.b08d9212245f0e17f4eff40f71bfde55.230x140_33962.jpg" width="172" height="104" alt="【快速上手英雄技能】司马懿"><p class="p1">【快速上手英雄技能】司马懿</p><div class="video-play"><p class="play-num fl"><i class="icon play"></i>1804.7万</p> <p class="play-time fl">1年以前</p></div></a></li><li><a href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=406049" title="【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级" onclick="PTTSendClick(&#39;link&#39;,&#39;videoraider&#39;,&#39;视频攻略&#39;);" target="_blank"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/900500.1534849215.c5c6f237c4826add744f5ec86ddcd89b.900x500_88727.jpg" width="172" height="104" alt="【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级"><p class="p1">【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级</p><div class="video-play"><p class="play-num fl"><i class="icon play"></i>516.4万</p> <p class="play-time fl">1年以前</p></div></a></li><li class="li1"><a href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=406049" title="【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级" onclick="PTTSendClick(&#39;link&#39;,&#39;videoraider&#39;,&#39;视频攻略&#39;);" target="_blank"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/900500.1534849215.c5c6f237c4826add744f5ec86ddcd89b.900x500_88727.jpg" width="172" height="104" alt="【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级"><p class="p1">【百星王者带你飞】第51期：寂灭之心司马懿，万军丛中取首级</p><div class="video-play"><p class="play-num fl"><i class="icon play"></i>516.4万</p> <p class="play-time fl">1年以前</p></div></a></li><li><a href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=407372" title="【荣耀兵器谱】第71期：贪狼之力吞天弑神 峡谷刺客新贵司马" onclick="PTTSendClick(&#39;link&#39;,&#39;videoraider&#39;,&#39;视频攻略&#39;);" target="_blank"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/900500.1535426372.f5dc229bf892881f2ee6a9ba3182f608.900x500_97352.jpg" width="172" height="104" alt="【荣耀兵器谱】第71期：贪狼之力吞天弑神 峡谷刺客新贵司马"><p class="p1">【荣耀兵器谱】第71期：贪狼之力吞天弑神 峡谷刺客新贵司马</p><div class="video-play"><p class="play-num fl"><i class="icon play"></i>486.3万</p> <p class="play-time fl">1年以前</p></div></a></li><li><a href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=536413" title="梦境大乱斗：选择这个英雄没啥意义，实在是太强了，草丛蹲着就好" onclick="PTTSendClick(&#39;link&#39;,&#39;videoraider&#39;,&#39;视频攻略&#39;);" target="_blank"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/f8eaf265edc0e56efff91f550ab988c5.1563280948.99e25726497b558b1f6557a5a94c670f.230x140_33027.jpg" width="172" height="104" alt="梦境大乱斗：选择这个英雄没啥意义，实在是太强了，草丛蹲着就好"><p class="p1">梦境大乱斗：选择这个英雄没啥意义，实在是太强了，草丛蹲着就好</p><div class="video-play"><p class="play-num fl"><i class="icon play"></i>2.1万</p> <p class="play-time fl">1个月以前</p></div></a></li><li><a href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=540269" title="王者荣耀：前中后期一直强的英雄，打掉貂蝉只要两刀！" onclick="PTTSendClick(&#39;link&#39;,&#39;videoraider&#39;,&#39;视频攻略&#39;);" target="_blank"><img src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/c00373c7bef88ff39e45c1832fb95572.1564243192.f81dd67b683977ba5de56ed738235abf.230x140_72102.png" width="172" height="104" alt="王者荣耀：前中后期一直强的英雄，打掉貂蝉只要两刀！"><p class="p1">王者荣耀：前中后期一直强的英雄，打掉貂蝉只要两刀！</p><div class="video-play"><p class="play-num fl"><i class="icon play"></i>2万</p> <p class="play-time fl">1个月以前</p></div></a></li></ul>
+                        </div>
+                    </div>
+                    <div class="strategy fl">
+                        <ul class="strategy-info"><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=545913" target="_blank" title="张大仙无敌马可超强压制单爆黄忠 一手魔女斗篷直接教司马懿做人" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>5天以前</span><p class="p-dec">张大仙无敌马可超强压制单爆黄忠 一手魔女斗篷直接教司马懿做人</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=539416" target="_blank" title="大仙击杀秀：谁说法师不能站撸，在大仙眼里任何英雄都是战士" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>1个月以前</span><p class="p-dec">大仙击杀秀：谁说法师不能站撸，在大仙眼里任何英雄都是战士</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=532054" target="_blank" title="大仙击杀秀：所有的羁绊转瞬即逝，司马懿会让你以十倍代价偿还罪" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>1个月以前</span><p class="p-dec">大仙击杀秀：所有的羁绊转瞬即逝，司马懿会让你以十倍代价偿还罪</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=533691" target="_blank" title="大师说游戏：怼天怼地怼空气，这样的司马懿请离他远点！" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>1个月以前</span><p class="p-dec">大师说游戏：怼天怼地怼空气，这样的司马懿请离他远点！</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=528496" target="_blank" title="王者荣耀神操作：婉儿秀的能玩出花来，但在司马懿面前还是死！" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>2个月以前</span><p class="p-dec">王者荣耀神操作：婉儿秀的能玩出花来，但在司马懿面前还是死！</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=528963" target="_blank" title="王者荣耀司马懿快速教学：出师未捷身先死？那是没把握好进场时机" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>2个月以前</span><p class="p-dec">王者荣耀司马懿快速教学：出师未捷身先死？那是没把握好进场时机</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=524785" target="_blank" title="王者荣耀神操作：嘴强王者司马懿，嘲讽人的词都不带重复的！" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>2个月以前</span><p class="p-dec">王者荣耀神操作：嘴强王者司马懿，嘲讽人的词都不带重复的！</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=520195" target="_blank" title="铠皇6杀必死是真理，司马懿大招为何打不断，胜利属于谁？" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>3个月以前</span><p class="p-dec">铠皇6杀必死是真理，司马懿大招为何打不断，胜利属于谁？</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=516215" target="_blank" title="2019KPL春季赛：虚假的恐吓流猫神司马懿精彩操作秀翻全场" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>3个月以前</span><p class="p-dec">2019KPL春季赛：虚假的恐吓流猫神司马懿精彩操作秀翻全场</p></a></li><li><em class="subscript">视频</em><a class="title" href="http://pvp.qq.com/v/detail.shtml?G_Biz=18&amp;tid=504965" target="_blank" title="王者荣耀教学：司马懿前期怎么玩？紧盯地图，你也能1分钟1人头" onclick="PTTSendClick(&#39;link&#39;,&#39;heroraiderVideo&#39;,&#39;视频攻略&#39;);"><span>4个月以前</span><p class="p-dec">王者荣耀教学：司马懿前期怎么玩？紧盯地图，你也能1分钟1人头</p></a></li></ul>
+                    </div>
+                </div>
+                
+            </div>
+            <!-- 英雄视频 E -->
+        </div>
+    </div>
+</div>
+<div class="pop-story" id="hero-story">
+    <div class="pop-hd">
+        英雄故事
+        <a href="javascript:showDialog.hide();" class="close"></a>
+    </div>
+    <div class="pop-bd">
+        <p>司马紧闭着双眼，而眼皮跳动不已。辗转无眠的时刻，模糊形象开始涌入头脑：父亲的死、江郡的小女孩、还有一些他无从知晓意义的场景：在非常古老的时期，一些人类和魔种从一座塔的底部被升到顶端，挨着被神的弓箭手处以死刑……那是——？有人告诉他，那些人是魔道家族的祖先。</p> <p>他的眼泪无法遏制。</p> <p>正在专注抄写什么东西的同窗诸葛，被他的私语惊醒，走到他身边。</p> <p>他看到仿佛是饱受折磨的青年，最终用什么打败了梦魇似的：在他人不可见的漫长缠斗后，露出苍白的微微一笑。</p><br><br>     <p>多年后，诸葛再看到这个笑容。在赤壁丘陵带的营帐内。</p> <p>此时是冬天。四处都在刮北风。万物都在受冻。何况一支被打得溃不成军的队伍。</p> <p>这一战，益城和江郡联盟对抗南下进攻的武都军队，在稷下同好、“笑口常开的杂耍艺人”和一些未知势力的配合下，诸葛开启了具有强大杀伤力的上古遗迹东风祭坛，对铁锁连成一体的武都舰船造成了毁灭性打击。武都军师司马懿在重伤中昏迷数日，当他睁开眼睛时，看到了那张稷下读书时代最熟悉的脸。——那个人就坐在床榻边，安安静静的看着他。司马坐起来，发觉自己的手腕上，黑色的血流已经止住，伤口结痂。</p> <p>在整个武都或说整个三分之地，都不会有大夫能做到这点。</p> <p>“你怎么进来的？”黑色的眼眸微微一动，无情地望着眼前人。</p> <p>“一切都在计算中。”诸葛简要的回答，站了起来，“走吧。把那些东西还给我。否则……”</p> <p>“否则我就死？”他又注视手臂上的结痂。</p> <p>诸葛没有再回应。</p><br>   <p>山间刮着寒风，他们顺着陡峭的小道往上走。三分之地在偶尔的俯瞰和回望中逐渐变小，山、江、河、湖，更远一些是海岸。就在这宛如沙盘一样的版图上，各方施展力量扩张自己的领域，此消彼长，反复分割出新的界限。如果神一直处在比他们要高的地方，那这一切是不是早就为神所知？或者，那早已隐退幕后的神，在每个时代借助力量，永远的控制着他们的命运？</p> <p>这些念头从诸葛的脑中掠过。</p> <p>诸葛随即意识到，这是他惯用的精神控制术。他很快解除掉这种控制，一心一意盯紧那个人：曾经的稷下同窗。现在的敌人。永恒的对手。</p> <p>然而，要正视最后两点，多么难。</p><br>   <p>司马，从武都来到稷下的少年。君主对他去稷下读书请求看似慷慨应允的背后，是暗令军队沿途击杀，幸而骑鲲的贤者路过，救下他一命，并把他带到了学院。</p> <p>杰出的智慧让他很快与稷下第一的诸葛彼此欣赏。对于贤者教授的上古知识，他们吸收极快又极为渴求更多的部分。二人查阅无数史料，离开稷下后，他们从朝歌遗迹到西边荒漠，探寻天书碎片。然而，一些奇怪的事也在发生：另外好友的死亡、已集到的天书碎片的失踪……</p> <p>很显然，他们已经分裂，有了全然不同的立场。他从他们共同的成果里夺走的部分越来越多，而诸葛全然不知那些东西去了哪。</p> <p>司马回归武都，辅佐君主之后，诸葛明白了，只有加入三分之地的争夺战，他才能知道那些东西去了哪。</p> <p>这是持久的对抗，随着时间流逝，司马也在向他索要东西。</p> <p>那些上古奇迹。怎么打开。</p> <p>看来他已经从天书碎片里得知了上古奇迹。但这是诸葛绝不可能告诉他的事。因为诸葛自己也不完全了解。何况，司马这样一个……</p><br>   <p>这样一个……什么人呢？</p> <p>司马不再施用精神控制，而开启意识的对话，对诸葛的追问接连而来。</p><br>   <p>“……一个‘魔道家族’的典型人吗？”</p> <p>“……永远潜藏在人间的犯罪者？”</p> <p>“他们的天才就是他们的罪恶。他们的罪恶就是他们生存的根本？”</p> <p>“是这样吗？诸葛？”</p> <p>“诸葛，一种流源于天书碎片的预言曾风靡三分之地，具备解读天书天赋的孩子被请去宫里。武都的君主也做了这么一件事。而他请来的孩子声称，我那身居武都要职的父亲，将终结曹氏一族。</p> <p>父亲就这样被君主杀掉了。”</p>   <p>一阵寒风尖锐地刺到诸葛的脸。他有些被激怒地回应道：</p> <p>“我不愿相信世间偏见。我甚至可以不相信天书预示的每件事都是对的。我相信过你。可是你做了什么呢？”</p> <p>风仍像冰刀一样刮在脸上。那人黑色的袍子抖动在山道消失前。</p> <p>“你做了什么呢？司马？你不是辅佐了杀掉你父亲的人吗？你不是协助他肆虐三分之地、让战火与灾难无休无止么？武都军队所到之处，屠城毁书……这就是无辜的你么？……如果说魔道家族的诅咒注定让你走上和我不同的路，那你对自己同族的人又做了什么呢？你自己一手解救的那个同样受诅咒的江郡女婴，你本是怀着同情将她私自培养、最后却仍然想要利用她，因为她想脱离于你，你就杀掉她的恋人……”</p><br>   <p>空气之中产生了一丝微小的震动。</p> <p>诸葛感到这个空间内存在着第三个人。可他难以判断那是谁。直到一线浅蓝色的光晕出现在山头。又隐去。</p> <p>诸葛恍然大悟。赤壁之战，烈火熊熊，他虽打开那终极太古武器，却控制力量，对司马留命，忽然汹涌而来的潮水偏偏将司马所在的船舰冲带向火光中心。隐约之间，他见到橘色的飘带闪烁水上，浅蓝色的光晕转瞬即逝。</p> <p>看来那女孩的心意很坚决，她将要伺机杀掉司马，在每一条他走的路上。</p><br>   <p>道路越往上越曲折迷离。两边开始出现一些悬浮半空、若有若无、闪着光泽的碎片，像菱镜一般。</p> <p>到了山顶，这更成为一种奇景。它们构成一个旋转的圆柱体，萦绕山头。</p> <p>司马站住：“我为何成为现在这个样子——看那。”</p><br>   <p>诸葛顺着司马所指，望向那片天书，碎片中出现了武都王宫。被请来的孩子解读天书，随即，司马父亲被秘密处死。那个孩子的脸明晰起来。</p> <p>“那个孩子……就是你，诸葛。</p> <p>你声名在外，贤者们为了护你，将你带到了稷下，抹去那段记忆，又为你重新命名。并教你正确的了解知识的方法。</p> <p>这一切，是我从寻找的天书里发现到真相后，贤者为我解答的疑惑。”</p><br>   <p>“为何要成为一个文明的毁灭者？因为我想要去恨，却不愿恨你。你是这个世界上，第一个对我伸出友情之手的人。‘柔克为懿，温柔圣善为懿’——记得吗？”</p><br>   <p>“如果我能一刀杀了你，我便能释放我的痛苦。可是我做不到，我只能去恨知识，恨宣扬着知识无上的文明。所以，你明白了为什么贤者虽然希望我克制邪恶力量、却永远不会责难我么？”</p>   <p>“诸葛，看着我。”</p> <p>诸葛望向碎片中的司马。</p> <p>“记住我最后的样子。”从手臂开始，司马身上蔓延出无数的黑影，“我没有受伤。赤壁之战，我就是迫使你给我打开东风祭坛……黑暗力量激发了我，我的能量做了一次更新，所以……虚弱不堪。但是现在……差不多了……——你在黑暗里给我写下的那个字，我再也用不着了。”</p><br>   <p>浅蓝的光一闪而过，从天而将的复仇者似乎要利用这最后的机会召唤海潮，阻挡司马的前进。</p> <p>时空穿梭之术击退了阻拦的力量。诸葛知道，自己正在做这一生中最后悔的事。</p> <p>可是……就是神，也会为自己的选择而后悔吧。</p> <p>放他这条生路。</p> <p>这是他的路。</p> <p>这一刻，诸葛心里闪过这样的念头。</p><br>   <p>带蓝色魔眼的灵体冲出司马体内，扑向天书。</p> <p><b>“已毁的灵魂，绝世的威力！”</b></p>    </div>
+</div>
+<div class="pop-story" id="history">
+    <div class="pop-hd">
+        历史上的TA
+        <a href="javascript:showDialog.hide();" class="close"></a>
+    </div>
+    <div class="pop-bd">
+        <p>司马懿，字仲达，三国时期著名政治家、军事谋略家。自幼聪颖，博学洽闻，其人善谋奇策，多次征伐有功，对屯田、水利等农耕经济发展有重要贡献。曾因曹操出身不好，一度拒绝曹操授予的官职，但曹操任丞相后，强行辟司马懿为文学掾，后司马懿支持曹操称帝，才逐渐赢得曹操的信任。</p>
+    </div>
+</div>
+
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/ping_tcss_tgideas_https_min.js.download"></script>
+<script type="text/javascript">
+//此段代码不能放到外链JS中，
+var setSite={ //设置网站属性
+    siteType:"os", //必填项:"os"代表是官网，如果不是，则填写actName例如a20160701xxx
+    pageType:"herodetail", //必填项:本页面的定位；按照页面含义填写例如main||list||detail||download||share||page1||pageN
+    pageName:"致胜宝典", //必填项:页面中文名
+    osact:0, //选填项:是否是官网专题(在官网运营的专题)boolean；默认是0；可以在链接上加入参数osact=1来灵活设置
+    ingame:0, //选填项:是否投放在游戏APP内boolean；默认是0；可以在链接上加入参数ingame=1来灵活设置
+    stayTime:0 //选填项:是否需要统计停留时长boolean；默认是0
+}
+if(typeof(pgvMain) == 'function')pgvMain();
+</script>
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/title.js.download"></script><div class="ost_box ost_bg" id="ost_box" style="position: absolute;"><ul class="ost_inner ost_lsn"><li class="ost_logo ost_h40 ost_fl ost_bg"><a href="http://game.qq.com/?ADTAG=IED.InnerCop.gameWeb.topNav%20target=" _blank"="" class="ost_blnk ost_hdn" title="腾讯游戏logo">腾讯游戏logo</a></li><li id="ost_g" class="ost_ad ost_h40 ost_fl"><img class="ost_nb" id="ost_go" src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/23040.1564559395.dabe8206b5beb34790d6cc567a7697fe.230x40_12363.jpg" alt=""></li><li class="ost_total ost_ml10 ost_fr"><h3 class="ost_czsh ost_h40"><a target="_blank" href="https://jiazhang.qq.com/jz/home.html?ADTAG=gamepcbanner">成长守护平台</a></h3><h3 class="ost_title ost_h40" id="ost_t">腾讯游戏排行榜<i class="ost_icon_arrow ost_bg"></i><sup class="ost_icon_reddot" id="ost_rank_v"></sup></h3><div class="ost_pop" id="ost_p"></div></li><li class="ost_fr ost_log ost_bg" id="ost_log"></li></ul><div id="ost_d" class="ost_big"></div></div>
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/jquery-1.11.3.min.js.download"></script>
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/milo.js.download"></script>
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/header.js.download"></script>
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/showDialog.min.js.download"></script>
+<!-- <script src="//pvp.qq.com/web201605/js/loudlinks.js"></script> -->
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/PAGE_WMP_BIZ_TYPE.js.download"></script>
+<!-- <script src="//lol.qq.com/m/public/Activity_Comm.js"></script> -->
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/wmpCommon_v3.js.download"></script>
+<script>
+var cname = '司马懿',ename = '137';
+</script>
+<script src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/page.js.download"></script>
+
+<iframe src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/asyncCookie.html" id="loginStatusSyncFrame_ams_ame" width="0" height="0" style="border: 0px; display: none;"></iframe><div id="_PopupMsg_" role="dialog" tabindex="-1" style="margin: -22px 0px 0px -127px; padding: 0px; width: 250px; height: 40px; border: 2px solid buttonface; background-color: rgb(255, 255, 204); font-size: 12px; color: rgb(0, 0, 0); text-align: center; line-height: 40px; display: none; visibility: visible; position: fixed; z-index: 9999; left: 50%; top: 50%;">亲爱的用户，您已经注销成功</div><div id="_overlay_" style="background-color: rgb(230, 245, 255); border-top: 1px solid rgb(230, 245, 255); position: absolute; height: 2424px; z-index: 9998; width: 100%; left: 0px; top: 0px; opacity: 0.7; display: none;"></div><iframe id="loginWxIframe" name="loginWxIframe" scrolling="no" frameborder="0" style="display: none;" src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/logout_wx.html"></iframe><div id="loginDiv" style="height: 368px; width: 622px; border: 0px; padding: 0px; margin: 0px; position: absolute; z-index: 100002; top: 20%; left: 30%; display: none;"><iframe id="loginIframe" name="loginIframe" scrolling="no" width="100%" height="100%" frameborder="0" src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/logout.html"></iframe></div><iframe id="loginWxIframe" name="loginWxIframe" scrolling="no" frameborder="0" style="display: none;" src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/logout_wx(1).html"></iframe><iframe id="loginIframe" name="loginIframe" scrolling="no" frameborder="0" style="display: none;" src="./王者荣耀司马懿-王者荣耀官网网站-腾讯游戏_files/logout(1).html"></iframe></body></html>

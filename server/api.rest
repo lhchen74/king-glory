@@ -1,0 +1,14 @@
+@uri = http://localhost:3000/web/api/
+
+### 
+GET {{uri}}news/init HTTP/1.1
+
+### 
+GET {{uri}}news/list HTTP/1.1
+
+
+### 
+GET {{uri}}heroes/init HTTP/1.1
+
+### 
+GET {{uri}}heroes/list HTTP/1.1

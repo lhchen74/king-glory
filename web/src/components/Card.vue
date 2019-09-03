@@ -1,9 +1,9 @@
 <template>
   <div class="card bg-white mt-3 p-3">
-    <div class="card-header d-flex ai-center pb-3">
+    <div class="card-header d-flex ai-center pb-3" :class="{'border-bottom': !plain}">
       <i class="iconfont" :class="`icon-${icon}`"></i>
       <div class="flex-1 fs-xl px-2">{{title}}</div>
-      <i class="iconfont icon-menu"></i>
+      <i class="iconfont icon-menu" v-if="!plain"></i>
     </div>
     <div class="cadr-body pt-3">
       <slot></slot>
@@ -21,6 +21,9 @@ export default {
     icon: {
       type: String,
       required: true
+    },
+    plain: {
+      type: Boolean
     }
   }
 };
@@ -30,9 +33,9 @@ export default {
 @import "../assets/scss/_variables.scss";
 
 .card {
-  .card-header {
-    border-bottom: 1px solid $border-color;
-  }
+  // .card-header {
+  //   border-bottom: 1px solid $border-color;
+  // }
   border-bottom: 1px solid $border-color;
 }
 </style>

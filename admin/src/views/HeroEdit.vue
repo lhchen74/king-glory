@@ -22,6 +22,17 @@
               <i v-else class="el-icon-plus avatar-uploader-icon"></i>
             </el-upload>
           </el-form-item>
+          <el-form-item label="横幅">
+            <el-upload
+              class="avatar-uploader"
+              :action="uploadUrl"
+              :headers="getAuthHeaders()"
+              :on-success="res => $set(model, 'banner', res.url)"
+            >
+              <img v-if="model.banner" :src="model.banner" class="banner" />
+              <i v-else class="el-icon-plus avatar-uploader-icon"></i>
+            </el-upload>
+          </el-form-item>
           <el-form-item label="分类">
             <el-select v-model="model.categories" multiple>
               <el-option
@@ -79,8 +90,7 @@
                 <el-input v-model="item.name"></el-input>
               </el-form-item>
               <el-form-item label="图标">
-                <!--开始不存在的属性 不能使用 item.icon='' 这种方式，
-                另外在这里也不能使用 this.$set()-->
+                <!--开始不存在的属性 不能使用 item.icon='' 这种方式，另外在这里也不能使用 this.$set()-->
                 <el-upload
                   class="avatar-uploader"
                   :action="uploadUrl"
@@ -91,6 +101,12 @@
                   <i v-else class="el-icon-plus avatar-uploader-icon"></i>
                 </el-upload>
               </el-form-item>
+              <el-form-item label="冷却">
+                <el-input v-model="item.delay"></el-input>
+              </el-form-item>
+              <el-form-item label="消耗">
+                <el-input v-model="item.cost"></el-input>
+              </el-form-item>
               <el-form-item label="描述">
                 <el-input type="textarea" rows="5" v-model="item.description"></el-input>
               </el-form-item>
@@ -99,6 +115,31 @@
               </el-form-item>
               <el-form-item>
                 <el-button size="small" type="danger" @click="model.skills.splice(i, 1)">删除</el-button>
+              </el-form-item>
+            </el-col>
+          </el-row>
+        </el-tab-pane>
+        <el-tab-pane label="最佳搭档" name="partners">
+          <el-button size="small" style="margin-bottom: 1rem" @click="model.partners.push({})">
+            <i class="el-icon-plus"></i>添加英雄
+          </el-button>
+          <el-row type="flex" style="flex-wrap:wrap">
+            <el-col :md="12" v-for="(item, i) in model.partners" :key="i">
+              <el-form-item label="英雄">
+                <el-select v-model="item.hero" filterable>
+                  <el-option
+                    v-for="hero in heroes"
+                    :key="hero._id"
+                    :value="hero._id"
+                    :label="hero.name"
+                  ></el-option>
+                </el-select>
+              </el-form-item>
+              <el-form-item label="描述">
+                <el-input type="textarea" rows="5" v-model="item.description"></el-input>
+              </el-form-item>
+              <el-form-item>
+                <el-button size="small" type="danger" @click="model.partners.splice(i, 1)">删除</el-button>
               </el-form-item>
             </el-col>
           </el-row>
@@ -122,10 +163,13 @@ export default {
       model: {
         name: "",
         avatar: "",
+        skills: [],
+        partners: [],
         scores: {}
       },
       categories: [],
-      items: []
+      items: [],
+      heroes: []
     };
   },
   methods: {
@@ -142,7 +186,8 @@ export default {
         await this.$http.post("rest/heros", this.model);
       }
       // 跳转到 list
-      this.$router.push("/heros/list");
+      // 暂时不跳转
+      // this.$router.push("/heros/list");
 
       this.$message({
         type: "success",
@@ -166,14 +211,28 @@ export default {
     async fetchItems() {
       const res = await this.$http.get("rest/items");
       this.items = res.data;
+    },
+    async fetchHeroes() {
+      const res = await this.$http.get("rest/heroes");
+      this.heroes = res.data;
     }
   },
   created() {
     this.fetchCategories();
     this.fetchItems();
+    this.fetchHeroes();
     this.id && this.fetch();
   }
 };
 </script>
 
 
+
+
+<style lang="css" scoped>
+.banner {
+  min-width: 5rem;
+  height: 5rem;
+  display: block;
+}
+</style>
